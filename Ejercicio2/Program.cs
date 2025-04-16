@@ -31,7 +31,7 @@ namespace Ejercicio2
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Aprobado");
-            } else
+            } else 
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Desaprobado");
